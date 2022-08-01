@@ -1,8 +1,0 @@
-Admin Login Details
-
-Username: admin
-Password: codeastro
-
-user login
-Username: admin
-Password: admin123
